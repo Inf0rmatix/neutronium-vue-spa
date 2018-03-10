@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Neutronium.SPA.Demo.Application.Navigation
+namespace Spekulatius.Application.Navigation
 {
     public interface INavigator
     {

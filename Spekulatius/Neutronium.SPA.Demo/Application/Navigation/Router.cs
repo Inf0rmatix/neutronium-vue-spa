@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using MoreCollection.Extensions;
 
-namespace Neutronium.SPA.Demo.Application.Navigation
+namespace Spekulatius.Application.Navigation
 {
     internal class Router : IRouterBuilder, IRouterSolver
     {

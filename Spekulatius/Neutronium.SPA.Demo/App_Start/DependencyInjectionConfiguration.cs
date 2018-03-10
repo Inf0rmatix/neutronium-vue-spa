@@ -2,13 +2,13 @@
 using CommonServiceLocator.NinjectAdapter.Unofficial;
 using Microsoft.Practices.ServiceLocation;
 using Neutronium.Core.WebBrowserEngine.Window;
-using Neutronium.SPA.Demo.Application.LifeCycleHook;
-using Neutronium.SPA.Demo.ViewModel.Pages;
 using Neutronium.WPF.Internal;
 using Ninject;
+using Spekulatius.Application.LifeCycleHook;
+using Spekulatius.ViewModel.Pages;
 using Vm.Tools.Application;
 
-namespace Neutronium.SPA.Demo 
+namespace Spekulatius 
 {
     public class DependencyInjectionConfiguration: IDependencyInjectionConfiguration
     {

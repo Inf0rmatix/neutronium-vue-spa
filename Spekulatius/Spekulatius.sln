@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neutronium.SPA.Demo", "Neutronium.SPA.Demo\Neutronium.SPA.Demo.csproj", "{333FFFE4-D703-47F5-B560-12C9853FF199}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spekulatius", "Neutronium.SPA.Demo\Spekulatius.csproj", "{333FFFE4-D703-47F5-B560-12C9853FF199}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98F000C5-FD20-44E4-94CF-95CD3354F809}
 	EndGlobalSection
 EndGlobal

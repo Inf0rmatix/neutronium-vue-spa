@@ -5,7 +5,7 @@ using Microsoft.Practices.ServiceLocation;
 using Neutronium.MVVMComponents;
 using Neutronium.MVVMComponents.Relay;
 
-namespace Neutronium.SPA.Demo.Application.Navigation
+namespace Spekulatius.Application.Navigation
 {
     public class NavigationViewModel : Vm.Tools.ViewModel, INavigator
     {

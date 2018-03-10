@@ -1,9 +1,9 @@
 ﻿using Neutronium.Core.JavascriptFramework;
-using Neutronium.WebBrowserEngine.ChromiumFx;
 using Neutronium.JavascriptFramework.Vue;
+using Neutronium.WebBrowserEngine.ChromiumFx;
 using Neutronium.WPF;
 
-namespace Neutronium.SPA.Demo
+namespace Spekulatius
 {
     /// <summary>
     /// Interaction logic for App.xaml

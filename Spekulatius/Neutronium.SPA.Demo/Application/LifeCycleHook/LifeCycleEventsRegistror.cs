@@ -1,7 +1,7 @@
-﻿using Neutronium.SPA.Demo.Application.Navigation;
+﻿using Spekulatius.Application.Navigation;
 using Vm.Tools.Application;
 
-namespace Neutronium.SPA.Demo.Application.LifeCycleHook
+namespace Spekulatius.Application.LifeCycleHook
 {
     internal class LifeCycleEventsRegistror
     {

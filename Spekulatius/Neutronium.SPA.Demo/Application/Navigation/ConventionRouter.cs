@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using MoreCollection.Extensions;
 using Neutronium.Core.Navigation.Routing;
 
-namespace Neutronium.SPA.Demo.Application.Navigation
+namespace Spekulatius.Application.Navigation
 {
     public class ConventionRouter : IConventionRouter
     {

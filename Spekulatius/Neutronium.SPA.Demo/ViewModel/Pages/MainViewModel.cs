@@ -1,14 +1,14 @@
-﻿using Neutronium.MVVMComponents;
-using Neutronium.MVVMComponents.Relay;
-using Neutronium.SPA.Demo.Application.Navigation;
-using Neutronium.SPA.Demo.Application.WindowServices;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using Neutronium.SPA.Demo.ViewModel.BuildingBlock;
+using Neutronium.MVVMComponents;
+using Neutronium.MVVMComponents.Relay;
+using Spekulatius.Application.Navigation;
+using Spekulatius.Application.WindowServices;
+using Spekulatius.ViewModel.BuildingBlock;
 using Vm.Tools.Application;
 
-namespace Neutronium.SPA.Demo.ViewModel.Pages 
+namespace Spekulatius.ViewModel.Pages 
 {
     public class MainViewModel : Vm.Tools.ViewModel
     {

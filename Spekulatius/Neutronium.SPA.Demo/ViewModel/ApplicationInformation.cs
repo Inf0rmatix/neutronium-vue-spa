@@ -1,4 +1,4 @@
-﻿namespace Neutronium.SPA.Demo.ViewModel 
+﻿namespace Spekulatius.ViewModel 
 {
     public class ApplicationInformation
     {

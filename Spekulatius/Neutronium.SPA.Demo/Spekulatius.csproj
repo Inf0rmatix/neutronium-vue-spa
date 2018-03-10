@@ -13,8 +13,8 @@
     <ProjectGuid>{333FFFE4-D703-47F5-B560-12C9853FF199}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Neutronium.SPA.Demo</RootNamespace>
-    <AssemblyName>Neutronium SPA Demo</AssemblyName>
+    <RootNamespace>Spekulatius</RootNamespace>
+    <AssemblyName>Spekulatius</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

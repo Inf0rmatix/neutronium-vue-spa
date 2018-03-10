@@ -1,7 +1,7 @@
 ﻿using Neutronium.Core.Navigation.Routing;
-using Neutronium.SPA.Demo.Application.Navigation;
+using Spekulatius.Application.Navigation;
 
-namespace Neutronium.SPA.Demo
+namespace Spekulatius
 {
     public class RoutingConfiguration
     {

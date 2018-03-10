@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Neutronium.SPA.Demo.Application.Navigation
+namespace Spekulatius.Application.Navigation
 {
     public interface IRouterSolver
     {

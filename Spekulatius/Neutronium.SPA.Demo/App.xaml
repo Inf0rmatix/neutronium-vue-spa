@@ -1,8 +1,7 @@
-﻿<chromiumFxInfra:ChromiumFxWebBrowserApp x:Class="Neutronium.SPA.Demo.App"
+﻿<chromiumFxInfra:ChromiumFxWebBrowserApp x:Class="Spekulatius.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Neutronium.SPA.Demo"
-             xmlns:chromiumFxInfra="clr-namespace:Neutronium.WebBrowserEngine.ChromiumFx;assembly=Neutronium.WebBrowserEngine.ChromiumFx"
+                                         xmlns:chromiumFxInfra="clr-namespace:Neutronium.WebBrowserEngine.ChromiumFx;assembly=Neutronium.WebBrowserEngine.ChromiumFx"
              xmlns:wpf="clr-namespace:Neutronium.WPF;assembly=Neutronium.WPF"
              StartupUri="MainWindow.xaml">
     <chromiumFxInfra:ChromiumFxWebBrowserApp.Resources>

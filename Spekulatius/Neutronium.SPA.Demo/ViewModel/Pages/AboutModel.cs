@@ -1,4 +1,4 @@
-﻿namespace Neutronium.SPA.Demo.ViewModel.Pages 
+﻿namespace Spekulatius.ViewModel.Pages 
 {
     public class AboutViewModel 
     {

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
-using Neutronium.SPA.Demo.Application.Navigation;
+using Spekulatius.Application.Navigation;
 
-namespace Neutronium.SPA.Demo.Application.LifeCycleHook
+namespace Spekulatius.Application.LifeCycleHook
 {
     public interface IApplicationLifeCycle
     {

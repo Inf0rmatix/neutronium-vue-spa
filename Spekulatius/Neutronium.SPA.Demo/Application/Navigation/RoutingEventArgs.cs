@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Neutronium.SPA.Demo.Application.Navigation
+namespace Spekulatius.Application.Navigation
 {
     public class RoutingEventArgs : CancelEventArgs
     {

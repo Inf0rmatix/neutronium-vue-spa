@@ -1,10 +1,10 @@
 ﻿using System.Threading.Tasks;
-using Neutronium.SPA.Demo.Application.Navigation;
-using Neutronium.SPA.Demo.Application.WindowServices;
-using Neutronium.SPA.Demo.ViewModel.Modal;
 using Neutronium.WPF.ViewModel;
+using Spekulatius.Application.Navigation;
+using Spekulatius.Application.WindowServices;
+using Spekulatius.ViewModel.Modal;
 
-namespace Neutronium.SPA.Demo.ViewModel 
+namespace Spekulatius.ViewModel 
 {
     public class ApplicationViewModel : Vm.Tools.ViewModel, IMessageBox 
     {

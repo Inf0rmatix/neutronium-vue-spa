@@ -1,4 +1,17 @@
 ﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
  "en-US":{
         "Resource":{
@@ -17,10 +30,10 @@
             "Ok":"Ok",
             "ProjectDescription":"Neutronium Vue SPA Template including IoC, routing and internalization",
             "Restart":"Restart",
-            "SearchMusicCover":"Search Music Cover",
             "ToDo":"To Do",
             "ToDoList":"ToDo List",
             "WhatNeedsToBeDone":"What needs to be done?"
         }
     }
+
 }

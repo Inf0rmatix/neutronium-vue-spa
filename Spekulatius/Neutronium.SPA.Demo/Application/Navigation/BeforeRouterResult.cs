@@ -1,4 +1,4 @@
-﻿namespace Neutronium.SPA.Demo.Application.Navigation
+﻿namespace Spekulatius.Application.Navigation
 {
     public struct BeforeRouterResult
     {

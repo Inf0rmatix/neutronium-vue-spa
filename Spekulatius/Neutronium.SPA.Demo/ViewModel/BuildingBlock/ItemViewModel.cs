@@ -1,4 +1,4 @@
-﻿namespace Neutronium.SPA.Demo.ViewModel.BuildingBlock
+﻿namespace Spekulatius.ViewModel.BuildingBlock
 {
     public class ItemViewModel : Vm.Tools.ViewModel
     {

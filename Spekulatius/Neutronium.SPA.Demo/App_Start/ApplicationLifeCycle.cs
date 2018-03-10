@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel;
-using Neutronium.SPA.Demo.Application.LifeCycleHook;
-using Neutronium.SPA.Demo.Application.Navigation;
-using Neutronium.SPA.Demo.Application.WindowServices;
+using Spekulatius.Application.LifeCycleHook;
+using Spekulatius.Application.Navigation;
+using Spekulatius.Application.WindowServices;
 using Vm.Tools.Application;
 
-namespace Neutronium.SPA.Demo
+namespace Spekulatius
 {
     public class ApplicationLifeCycle: IApplicationLifeCycle
     {

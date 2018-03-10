@@ -1,6 +1,6 @@
 ﻿using Neutronium.Core.Navigation.Routing;
 
-namespace Neutronium.SPA.Demo.Application.Navigation
+namespace Spekulatius.Application.Navigation
 {
     public static class RouterBuilderExtensions
     {

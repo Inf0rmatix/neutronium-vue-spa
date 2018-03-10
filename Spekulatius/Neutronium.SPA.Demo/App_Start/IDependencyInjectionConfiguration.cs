@@ -1,6 +1,6 @@
 ﻿using Microsoft.Practices.ServiceLocation;
 
-namespace Neutronium.SPA.Demo 
+namespace Spekulatius 
 {
     public interface IDependencyInjectionConfiguration 
     {
